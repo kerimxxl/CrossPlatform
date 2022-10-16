@@ -1,2 +1,0 @@
-# CrossPlatform
-Lab1
