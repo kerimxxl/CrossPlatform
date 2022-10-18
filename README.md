@@ -1,2 +1,2 @@
 # CrossPlatform
-Lab1
+Labs
